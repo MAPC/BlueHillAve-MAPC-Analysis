@@ -25,5 +25,5 @@ https://mapc.github.io/BlueHillAve-MAPC-Analysis/viz-rental-listings.html
 
 ## Property Sales: 
 <a href = "https://mapc.github.io/BlueHillAve-MAPC-Analysis/viz-warren.html">
-https://mapc.github.io/BlueHillAve-MAPC-Analysis/viz-warren.htm
+https://mapc.github.io/BlueHillAve-MAPC-Analysis/viz-warren.html
   <a/>
